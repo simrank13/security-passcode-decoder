@@ -1,2 +1,8 @@
-# mysterypasscode
-As society becomes more reliant on digital technology, there's an ever-growing necessity for strong cybersecurity methods. One major aspect of cybersecurity is creating safe and secure passcodes. This project gives the user a task to guess the mystery passcode under certain constraints.
+# Mystery Passcode
+This program builds a game where it gives a task to the user to guess the mystery passcode and will detect if the keyword the user entered is used (denoted by '+' beside the letter on both sides), not used (denoted by '-') and/or in the correct position (denoted by '!') in the mystery passcode. The program will also record the number of tries it has taken the user to reach the mystery passcode along with showing the history of the user's guesses. 
+
+The following images is a sample output for when the mystery word is 'order'.
+
+![image](https://github.com/simrank13/mysterypasscode/assets/132793467/c2eb635d-1565-4419-8241-52ad940ca835)
+![image](https://github.com/simrank13/mysterypasscode/assets/132793467/49beff45-2230-4f19-a2a7-fd74d2a8f673)
+
