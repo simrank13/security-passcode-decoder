@@ -3,6 +3,7 @@ This program builds a game where it gives a task to the user to guess the myster
 
 The following images is a sample output for when the mystery word is 'order'.
 
-![image](https://github.com/simrank13/mysterypasscode/assets/132793467/c2eb635d-1565-4419-8241-52ad940ca835)
+![image](https://github.com/simrank13/mysterypasscode/assets/132793467/7366881f-c822-4f35-96b8-a0d17a4bdc2d)
+
 ![image](https://github.com/simrank13/mysterypasscode/assets/132793467/49beff45-2230-4f19-a2a7-fd74d2a8f673)
 
