@@ -1,6 +1,5 @@
 /**
  * This class represents a single letter that will be used in the game. Each game letter also has an accompanying integer label which indicates whether it is used, unused or correct with respect to the mystery word
- * @author skullar5
  *
  */
 public class Letter {
