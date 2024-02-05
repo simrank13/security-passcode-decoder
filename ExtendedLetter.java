@@ -1,6 +1,5 @@
 /**
  * This class is subclass of Letter and extends functionality and represents content of Letter object, and for this objects of this class will use String instance variable . Adds more features to broaden notion of letter used in game
- * @author skullar5
  *
  */
 public class ExtendedLetter extends Letter {
