@@ -1,6 +1,5 @@
 /**
  * This class is a central repository for information about a WordLL game: It stores a mystery word and all word guesses. Keeps history of past word guesses in linked structure
- * @author skullar5
  * 
  * The most hardest method in this WordLL class I found was the tryWord, I was able to update label of all letters contained in Word guess by using the labelWord method and 
  * create a new node and get it to store the Word guess object then set current nodes next as history then update history to current node but then I struggled to figure out 
