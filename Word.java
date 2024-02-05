@@ -1,7 +1,6 @@
 /**
  * This class represents a word in the game that is comprised of any number of letters. Each letter is represented by a letter object. The letter objects stored in linked lists formed by LinearNode object and each node in the linked list sores Letter object 
  * and labels Letter objects with respect to mystery word
- * @author skullar5
  *
  */
 public class Word {
